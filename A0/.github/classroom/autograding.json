@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "pytest",
+      "setup": "sudo -H pip3 install pytest torch",
+      "run": "python3 -m pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 15,
+      "points": null
+    }
+  ]
+}
